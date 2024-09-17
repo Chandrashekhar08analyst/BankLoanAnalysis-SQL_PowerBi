@@ -30,7 +30,7 @@ This project analyzes bank loan data using **SQL (PostgreSQL)** for data process
 
 ## 📂 Files
 - `SQL_Queries.sql`: SQL queries for analysis.
-- `Bank_Loan_Analysis.pbix`: Power BI dashboard file.
+- `"C:\Users\CHANDRASHEKHAR\Downloads\Bank Loan Project.pbit"`: Power BI dashboard file.
 
 ## 📬 Contact
 For questions or suggestions, feel free to reach out at [your email].
