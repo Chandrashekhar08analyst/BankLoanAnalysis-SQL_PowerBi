@@ -28,9 +28,5 @@ This project analyzes bank loan data using **SQL (PostgreSQL)** for data process
 2. **Focus on Debt Consolidation and Credit Cards**: Most profitable loan purposes.
 3. **Improve Risk Assessment**: Reduce bad loans through better profiling.
 
-## 📂 Files
-- `SQL_Queries.sql`: SQL queries for analysis.
-- `"C:\Users\CHANDRASHEKHAR\Downloads\Bank Loan Project.pbit"`: Power BI dashboard file.
-
 ## 📬 Contact
-For questions or suggestions, feel free to reach out at [your email].
+For questions or suggestions, feel free to reach out at [pathakcg22@gmail.com].
