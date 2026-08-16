@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analytics
+# 🏦 BaBank Loan & Credit Risk Analytics
 
 ![Loan Portfolio Analytics](https://github.com/user-attachments/assets/b9238e1f-83ea-4649-bd25-98d8da9bdb58)
 
